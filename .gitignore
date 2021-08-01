@@ -1,0 +1,14 @@
+venv
+
+.vscode
+
+docker-stack.yml
+
+__pycache__
+app.egg-info
+.mypy_cache
+.pytest_cache
+
+.cache
+.coverage
+htmlcov
